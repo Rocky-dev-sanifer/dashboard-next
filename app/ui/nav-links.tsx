@@ -3,7 +3,6 @@ import React from 'react';
 import Link from 'next/link';
 import { UserGroupIcon, HomeIcon, DocumentDuplicateIcon } from '@heroicons/react/24/outline';
 import { usePathname } from 'next/navigation';
-import clsx from 'clsx';
 
 const NavLinks = () => {
 

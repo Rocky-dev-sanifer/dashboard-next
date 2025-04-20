@@ -1,6 +1,6 @@
 import { inter } from "./ui/fonts";
 
-import type { Metadata } from "next";
+
 
 import "./globals.css";
 
